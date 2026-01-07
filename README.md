@@ -1,4 +1,4 @@
 # VisionPlus_CaseStudy
 
-Created a Vercel Project to host the website 
-[https://vision-plus-case-study.vercel.app/]((https://vision-plus-case-study.vercel.app/))
+Created a [Vercel Project](https://vision-plus-case-study.vercel.app/) to host the website 
+
